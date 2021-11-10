@@ -11,7 +11,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jawblia/npm-test.git"
+    "url": "git+https://github.com/testashish3330/ashish3330.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
